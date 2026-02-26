@@ -29,3 +29,12 @@ I'll make a PCB now then work on the enclosure.
 <img width="2704" height="401" alt="image" src="https://github.com/user-attachments/assets/9e5b2beb-c061-4979-bfc6-0f29b6504299" />
 
 **Total time spent: 3h**
+
+
+# February 26th, 06:18pm : Changed the schematic
+
+Okay so I was assigning footprints and found out I don't have a footprint for the Pi HAT with cutouts for DSI and CSI cables, so i made a new project with the "Raspberry Pi HAT" Template on KiCad and copy pasted everything then put all the Net Labels to the correct pins.
+
+<img width="1860" height="1411" alt="image" src="https://github.com/user-attachments/assets/b60368b8-5922-46bf-99f9-ec7674244b87" />
+
+**Total time spent: 58mins**
