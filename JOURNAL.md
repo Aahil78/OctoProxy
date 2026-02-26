@@ -38,3 +38,11 @@ Okay so I was assigning footprints and found out I don't have a footprint for th
 <img width="1860" height="1411" alt="image" src="https://github.com/user-attachments/assets/b60368b8-5922-46bf-99f9-ec7674244b87" />
 
 **Total time spent: 58mins**
+
+# Fubruary 26th, 08:00pm : Made the PCB
+
+Soooo, I made the PCB!!! It was pretty hard to arrange all the components in a limited space, now I'm gonna work on the enclosure.
+
+<img width="2379" height="1576" alt="image" src="https://github.com/user-attachments/assets/f5e68d6e-96e2-4f0f-80ce-c002435981ef" />
+
+**Total time spent: 1hr 42mins**
