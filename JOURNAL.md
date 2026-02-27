@@ -47,10 +47,18 @@ Soooo, I made the PCB!!! It was pretty hard to arrange all the components in a l
 
 **Total time spent: 1hr 42mins**
 
-# February 28th, 1:15am : Labled all pins
+# February 28th, 01:15am : Labled all pins
 
 So I went over and exported the 3D Model of the PCB and noticed I didnt label any of the pins, so I did that rn. I didnt do the ones on the side cz theres no space and they may not be used that much, might label those on the enclosure if I can.
 
 <img width="2127" height="1564" alt="image" src="https://github.com/user-attachments/assets/6e2a3853-20ba-42e8-98fd-aca185600dbc" />
 
 **Total time spent: 15mins**
+
+# February 28th, 03:45am : Populated the PCB
+
+Sooo I researched all the components, shortlisted them, decided the final components, downloaded it's 3D Model, imprt it, then position it onto my PCB in the assembly. Now I'll export the populated PCB+Raspberru Pi then make my sketch around that.
+
+<img width="2859" height="1541" alt="image" src="https://github.com/user-attachments/assets/486d8a86-01ca-4cf3-a43c-5c2eb37d71a9" />
+
+**Total time spent: 3hrs 30mins**
