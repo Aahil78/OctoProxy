@@ -62,3 +62,15 @@ Sooo I researched all the components, shortlisted them, decided the final compon
 <img width="2859" height="1541" alt="image" src="https://github.com/user-attachments/assets/486d8a86-01ca-4cf3-a43c-5c2eb37d71a9" />
 
 **Total time spent: 3hrs 30mins**
+
+# March 1st, 10:47am : Redid the PCB
+
+So last night in Onshape, I found out the GPIO Header was mislaigned, so I had to delete all traces, replace the footprint to spaarkfun's PCM RPi Hat connector, and precisely aligned everything asw. I then routed everything again, I also added all 3D Models to the PCB this time to save time for later on.
+
+<img width="2114" height="1542" alt="image" src="https://github.com/user-attachments/assets/870d42be-855f-4f33-9296-f7bae09c7e6f" />
+
+<img width="2678" height="1778" alt="image" src="https://github.com/user-attachments/assets/9efde93a-72d9-4dbd-a8c1-cfed15386303" />
+
+<img width="2307" height="1799" alt="image" src="https://github.com/user-attachments/assets/48ac27ce-2435-4950-9529-2c40b774dce6" />
+
+**Total Time Spent: 2hrs 45mins**
