@@ -74,3 +74,12 @@ So last night in Onshape, I found out the GPIO Header was mislaigned, so I had t
 <img width="2307" height="1799" alt="image" src="https://github.com/user-attachments/assets/48ac27ce-2435-4950-9529-2c40b774dce6" />
 
 **Total Time Spent: 2hrs 45mins**
+
+# March 2nd, 10:07pm : Starting the case
+
+I added the PCB and Pi in OnShape, connected them im an assembly, exported the assembly, added the export back into OnShape as a part studio, then I started off the case, aligned the Pi in it, and made cutouts for the Type C, HDMI, and audio port.
+
+<img width="2174" height="1625" alt="image" src="https://github.com/user-attachments/assets/c54d88e1-d025-4cb1-824d-8f35ea2d2469" />
+<img width="2077" height="1471" alt="image" src="https://github.com/user-attachments/assets/046e2c7b-2e92-4a9b-9682-bbabd15a9329" />
+
+**Total time spent: 3hrs**
