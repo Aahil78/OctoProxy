@@ -1,0 +1,13 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+32.48,51.705,90.0,top,J1,,,Raspberry_Pi_Shield_Bottom_Entry_No_Mounting_Holes,GPIO,tht
+7.385,13.27,180.0,top,J10,,,Harwin_M20-89004xx_1x04_P2.54mm_Horizontal,Conn_01x04_Pin,smt
+19.5,7.5,-90.0,top,J11,,,Harwin_M20-89003xx_1x03_P2.54mm_Horizontal,Conn_01x03_Pin,smt
+20.0,49.0,90.0,top,J2,,,Harwin_M20-89003xx_1x03_P2.54mm_Horizontal,Conn_01x03_Pin,smt
+7.5,43.0,180.0,top,J3,,,Harwin_M20-89004xx_1x04_P2.54mm_Horizontal,Conn_01x04_Pin,smt
+34.0,7.5,-90.0,top,J4,,,Harwin_M20-89007xx_1x07_P2.54mm_Horizontal,Conn_01x07_Pin,smt
+60.725,35.615,90.0,top,J5,,,PinHeader_1x02_P2.54mm_Horizontal,Conn_01x02_Pin,tht
+50.0,7.5,-90.0,top,J6,,,Harwin_M20-89003xx_1x03_P2.54mm_Horizontal,Conn_01x03_Pin,smt
+49.0,49.0,90.0,top,J7,,,Harwin_M20-89006xx_1x06_P2.54mm_Horizontal,Conn_01x06_Pin,smt
+32.5,49.0,90.0,top,J8,,,Harwin_M20-89006xx_1x06_P2.54mm_Horizontal,Conn_01x06_Pin,smt
+56.5,10.885,-90.0,top,J9,,,PinHeader_1x01_P2.54mm_Horizontal,Conn_01x01_Pin,tht
+31.58,37.0,180.0,top,R3,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,330ohm,tht

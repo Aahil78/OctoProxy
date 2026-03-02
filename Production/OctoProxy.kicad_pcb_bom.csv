@@ -1,0 +1,9 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+J1,1,GPIO,Raspberry_Pi_Shield_Bottom_Entry_No_Mounting_Holes,,,,tht,
+"J10, J3",2,Conn_01x04_Pin,Harwin_M20-89004xx_1x04_P2.54mm_Horizontal,,,,smt,
+"J11, J2, J6",3,Conn_01x03_Pin,Harwin_M20-89003xx_1x03_P2.54mm_Horizontal,,,,smt,
+J4,1,Conn_01x07_Pin,Harwin_M20-89007xx_1x07_P2.54mm_Horizontal,,,,smt,
+J5,1,Conn_01x02_Pin,PinHeader_1x02_P2.54mm_Horizontal,,,,tht,"Generic connector, single row, 01x02, script generated"
+"J7, J8",2,Conn_01x06_Pin,Harwin_M20-89006xx_1x06_P2.54mm_Horizontal,,,,smt,
+J9,1,Conn_01x01_Pin,PinHeader_1x01_P2.54mm_Horizontal,,,,tht,"Generic connector, single row, 01x01, script generated"
+R3,1,330ohm,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,,,tht,"330Ω, 1/4W Resistor"
