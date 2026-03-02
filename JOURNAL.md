@@ -83,3 +83,11 @@ I added the PCB and Pi in OnShape, connected them im an assembly, exported the a
 <img width="2077" height="1471" alt="image" src="https://github.com/user-attachments/assets/046e2c7b-2e92-4a9b-9682-bbabd15a9329" />
 
 **Total time spent: 3hrs**
+
+# March 3rd, 12:27am : Case bottom done
+
+I made the whole bottom, added text, cutouts, fillets, etc. I'll make the top now, might use heatset inserts to screw in the top. (The top is really big cz I have to fit in a 2010 or 4010 fan too.)
+
+<img width="1869" height="1587" alt="image" src="https://github.com/user-attachments/assets/0085d5f8-72d4-4956-a680-50f55ea7966e" />
+
+**Total time spent: 2hr 20mins**
