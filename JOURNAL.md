@@ -91,3 +91,11 @@ I made the whole bottom, added text, cutouts, fillets, etc. I'll make the top no
 <img width="1869" height="1587" alt="image" src="https://github.com/user-attachments/assets/0085d5f8-72d4-4956-a680-50f55ea7966e" />
 
 **Total time spent: 2hr 20mins**
+
+# March 3rd, 01:17am : Finished the case!
+
+So im finally done with the case!! I'll use a different fan that screws onto the pi not case. and for the camera I'll use a stand I have at home, also for the LCD, I am not gonna add one because this is intended for a server, but if needed i can use the HDMI ports. I'll add all files then submit.
+
+<img width="2140" height="1487" alt="image" src="https://github.com/user-attachments/assets/957d68cb-384b-449e-a19a-fc8604f02502" />
+
+**Total time spent: 1hr**
